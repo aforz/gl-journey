@@ -1,4 +1,4 @@
-package com.algorithms;
+package com.ds_algorithms;
 
 public class MergeSort {
     public static void main(String[] args) {

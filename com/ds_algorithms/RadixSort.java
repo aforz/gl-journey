@@ -1,4 +1,4 @@
-package com.algorithms;
+package com.ds_algorithms;
 
 import java.util.Arrays;
 
