@@ -1,4 +1,4 @@
-package com.labs_mentoring.lab2;
+package com.labs_mentoring.labs.lab2;
 
 import java.util.Scanner;
 
